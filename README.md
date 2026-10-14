@@ -2,8 +2,6 @@
 
 把做过的智能体项目记下来：怎么想需求、怎么搭流程、怎么改提示词、怎么测、怎么交出去。
 
-![智能体开发笔记](./assets/diagrams/overview-zh.svg)
-
 ## 项目列表
 
 | 项目 | 做什么 | 有什么不一样 |
@@ -16,25 +14,11 @@
 另外还有 [审批催办](./projects/approval-reminder/) 和 [报税自动填表](./projects/tax-filing-rpa/)。  
 自己写的小项目：[MiniCode](https://github.com/gogogo-a/MiniCode)。
 
-![各项目独特之处](./assets/diagrams/project-highlights-zh.svg)
-
 ## 流程画布
 
-智能体在平台上的节点怎么连，放大能看清。
-
-| 项目 | 画布 |
-|------|------|
-| 工作票 | ![工作票画布](./assets/screenshots/ticket-canvas.svg) |
-| 知识库问答 | ![知识检索画布](./assets/screenshots/rag-canvas.svg) |
-| 循环检索那一块 | ![循环检索](./assets/screenshots/rag-iteration.svg) |
-| 会议预约 | ![会议预约画布](./assets/screenshots/meeting-canvas.svg) |
-| 会议分支 | ![会议分支](./assets/screenshots/meeting-branch.svg) |
-
-更多说明：[assets/screenshots/README.md](./assets/screenshots/README.md)
+见 [assets/screenshots/](./assets/screenshots/)。
 
 ## 平时怎么做项目
-
-![智能体开发过程](./assets/diagrams/dev-process-zh.svg)
 
 1. 先搞清楚要解决什么、输入输出是什么、有哪些限制。
 2. 再拆流程：哪一步用规则、哪一步用大模型、哪一步调接口。
@@ -68,7 +52,7 @@ python semantic_chunk_md.py --help
 
 ## 说明
 
-记录设计思路、问题排查、测试和经验总结。涉及客户业务的内容已脱敏。  
+设计思路、问题排查、测试和经验总结。  
 通用做法见 [lessons/agent-playbook.md](./lessons/agent-playbook.md)。
 
 仓库地址：https://github.com/gogogo-a/Agent-Portfolio

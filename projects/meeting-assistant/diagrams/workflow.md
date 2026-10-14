@@ -21,7 +21,7 @@ flowchart TD
     B --> OK[成功回复]
 ```
 
-## 画布（SVG）
+## 画布
 
-- `assets/screenshots/meeting-canvas.svg`：全景  
-- `assets/screenshots/meeting-branch.svg`：状态机 / 分支特写
+- `assets/screenshots/meeting-canvas.png`：全景  
+- `assets/screenshots/meeting-branch.png`：分支特写

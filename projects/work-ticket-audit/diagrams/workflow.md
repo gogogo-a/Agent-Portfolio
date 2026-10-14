@@ -26,4 +26,4 @@ flowchart TD
 
 ## 画布
 
-`assets/screenshots/ticket-canvas.svg`
+`assets/screenshots/ticket-canvas.png`

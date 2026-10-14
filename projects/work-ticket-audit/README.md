@@ -2,12 +2,6 @@
 
 上传工作票，自动检查有没有违规，并给出能看懂的审核报告。
 
-![工作票审核流程](../../assets/diagrams/work-ticket-flow-zh.svg)
-
-画布：
-
-![工作票画布](../../assets/screenshots/ticket-canvas.svg)
-
 ## 有什么不一样
 
 - 能算清楚的用规则查，要读懂意思的用大模型查，两边一起出结果
@@ -38,6 +32,8 @@
 
 更细的设计：[docs/design.md](./docs/design.md)  
 流程图：[diagrams/workflow.md](./diagrams/workflow.md)
+
+画布截图：`assets/screenshots/ticket-canvas.png`
 
 ## 难在哪
 

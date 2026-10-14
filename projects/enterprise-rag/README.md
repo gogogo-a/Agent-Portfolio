@@ -2,14 +2,6 @@
 
 根据公司规章制度、红头文件等文档回答问题。常见问题可以直接答；更复杂的会选库、改写问题、检索、检查质量，再根据片段作答。
 
-![知识库问答流程](../../assets/diagrams/rag-flow-zh.svg)
-
-画布：
-
-![知识检索画布](../../assets/screenshots/rag-canvas.svg)
-
-![循环检索](../../assets/screenshots/rag-iteration.svg)
-
 ## 有什么不一样
 
 - 文档从版式文件转到可检索内容，再进知识库；大约一万多份，支持断点续跑、失败重试、旧版停用
@@ -26,7 +18,7 @@
 
 - 参与知识库建设和问答流程
 - 落地滑动窗口切分和评测回归
-- 整理出包、画布排布和内网安装时的坑
+- 整理出包、画布排布和安装时的坑
 
 ## 流程大概这样
 
@@ -39,6 +31,8 @@
 
 详细设计：[docs/design.md](./docs/design.md)  
 切段说明：[docs/semantic-chunking.md](./docs/semantic-chunking.md)
+
+画布截图：`assets/screenshots/rag-canvas.png`、`assets/screenshots/rag-iteration.png`
 
 ## 自己电脑上可以试
 

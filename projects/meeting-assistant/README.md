@@ -2,14 +2,6 @@
 
 用对话约会议：问清老师和时间，查忙闲，分会议室，确认后再预订。
 
-![会议预约流程](../../assets/diagrams/meeting-flow-zh.svg)
-
-画布：
-
-![会议预约画布](../../assets/screenshots/meeting-canvas.svg)
-
-![会议分支特写](../../assets/screenshots/meeting-branch.svg)
-
 ## 有什么不一样
 
 - 以前要来回问谁有空、哪间房空，现在走对话流程，一次大约能少半小时以上
@@ -40,6 +32,8 @@
 平台画布不能画成圈，所以「循环」靠多轮对话和会话变量完成。  
 详细设计：[docs/design.md](./docs/design.md)  
 状态机代码：[src/code_state_machine.py](./src/code_state_machine.py)
+
+画布截图：`assets/screenshots/meeting-canvas.png`、`assets/screenshots/meeting-branch.png`
 
 ## 本地联调
 

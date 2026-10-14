@@ -44,8 +44,9 @@ DECISIONS.md
 PROGRESS.md
 AGENT经验.md
 
-# Upload plan (local only)
+# 本地推送笔记，不上传
 github仓库上传.md
+github推送经验.md
 
 # Large / binary internals
 *.zip
