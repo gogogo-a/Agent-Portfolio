@@ -1,0 +1,43 @@
+# 滑动窗口语义分块（方案 B）——公开示例配置
+# 请按本机路径与 embedding 服务修改 source_root / output_root / base_url
+
+source_root: "./sample_md"
+output_root: "./sample_md_chunked"
+report_dir: "./run_reports"
+
+embedding:
+  base_url: "http://127.0.0.1:9997/v1"   # 本地兼容 OpenAI 的 embedding 服务示例
+  model: "bge-large-zh-v1.5"
+  batch_size: 128
+  timeout_sec: 120
+  max_batch_chars: 6000
+  workers: 2
+
+tokenizer:
+  name: "BAAI/bge-large-zh-v1.5"
+  prefer_hf: true
+  local_path: ""
+
+window:
+  target_tokens: 150
+  min_tokens: 80
+  max_tokens: 200
+
+chunk:
+  target_tokens: 350
+  hard_max_tokens: 495
+  absolute_max_tokens: 512
+  min_tokens: 100
+  min_keep_tokens: 50
+  overlap_tokens: 0
+
+enforce:
+  enabled: true
+  max_rounds: 10
+  overlap_tokens: 50
+
+threshold:
+  percentile: 20              # 本批相似度 P20 作为自适应 τ
+  use_neighbor_median: true
+
+# 详细算法说明见 ../docs/semantic-chunking.md

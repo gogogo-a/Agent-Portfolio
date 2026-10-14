@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+账号密码
+**/账号密码
+credentials*
+*secret*
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Temp / logs
+tmp/
+temp/
+logs/
+*.log
+Run/
+Result/
+
+# Local private / internship raw trees — DO NOT PUBLISH
+# （worktree 内实习源码副本，推送前确认未 git add）
+合肥高铁/
+晶合集成/
+中海油/
+自动报税/
+报销/
+报告/
+rpa-示例/
+AGENT.md
+DECISIONS.md
+PROGRESS.md
+AGENT经验.md
+
+# Upload plan (local only)
+github仓库上传.md
+
+# Large / binary internals
+*.zip
+!demos/**/*.zip
+源文件/
+raw_docs/
+parsed/
+kg/
+workflow/*.zip
+
+# Private data
+data/private/
+data/internal/
+examples/private/

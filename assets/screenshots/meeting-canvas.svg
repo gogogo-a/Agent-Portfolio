@@ -1,0 +1,330 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18944" height="3876" viewBox="0 0 18944 3876">
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#94a3b8"/></marker>
+</defs>
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<text x="80" y="36" font-family="PingFang SC, Heiti SC, sans-serif" font-size="28" font-weight="600" fill="#1e3a5f">会议预约助手 · 流程画布</text>
+<path d="M18024.0,2178.0 C18082.0,2178.0 18082.0,2178.0 18140.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M18444.0,2178.0 C18502.0,2178.0 18502.0,2178.0 18560.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M5004.0,578.0 C5062.0,578.0 5062.0,1921.0 5120.0,1921.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M5424.0,1921.0 C5482.0,1921.0 5482.0,178.0 5540.0,178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M5844.0,178.0 C11782.0,178.0 11782.0,2178.0 17720.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M5424.0,1921.0 C5482.0,1921.0 5482.0,578.0 5540.0,578.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M5424.0,1921.0 C5482.0,1921.0 5482.0,978.0 5540.0,978.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M5424.0,1921.0 C5482.0,1921.0 5482.0,978.0 5540.0,978.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M5844.0,578.0 C11782.0,578.0 11782.0,2178.0 17720.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M5844.0,978.0 C11782.0,978.0 11782.0,2178.0 17720.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M5424.0,1921.0 C5482.0,1921.0 5482.0,3778.0 5540.0,3778.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M5844.0,3778.0 C5902.0,3778.0 5902.0,3778.0 5960.0,3778.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M6264.0,3778.0 C6322.0,3778.0 6322.0,3778.0 6380.0,3778.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M6684.0,3778.0 C12202.0,3778.0 12202.0,2178.0 17720.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M5424.0,1921.0 C5482.0,1921.0 5482.0,2178.0 5540.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M5424.0,1921.0 C5482.0,1921.0 5482.0,2178.0 5540.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M5844.0,2178.0 C5902.0,2178.0 5902.0,2178.0 5960.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M6264.0,2178.0 C6322.0,2178.0 6322.0,2178.0 6380.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M6684.0,2178.0 C6742.0,2178.0 6742.0,2178.0 6800.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M7104.0,2178.0 C12412.0,2178.0 12412.0,2178.0 17720.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M7104.0,2178.0 C7162.0,2178.0 7162.0,2178.0 7220.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M7524.0,2178.0 C7582.0,2178.0 7582.0,2178.0 7640.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M7944.0,2178.0 C12832.0,2178.0 12832.0,2178.0 17720.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M7944.0,2178.0 C8002.0,2178.0 8002.0,2178.0 8060.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M5424.0,1921.0 C6742.0,1921.0 6742.0,2178.0 8060.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M8364.0,2178.0 C8422.0,2178.0 8422.0,2178.0 8480.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M8784.0,2178.0 C8842.0,2178.0 8842.0,2178.0 8900.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M9204.0,2178.0 C13462.0,2178.0 13462.0,2178.0 17720.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M9204.0,2178.0 C9262.0,2178.0 9262.0,2178.0 9320.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M9624.0,2178.0 C9682.0,2178.0 9682.0,2178.0 9740.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M10044.0,2178.0 C10102.0,2178.0 10102.0,2178.0 10160.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M10464.0,2178.0 C10522.0,2178.0 10522.0,2178.0 10580.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M10884.0,2178.0 C14302.0,2178.0 14302.0,2178.0 17720.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M10884.0,2178.0 C10942.0,2178.0 10942.0,2178.0 11000.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M11304.0,2178.0 C11362.0,2178.0 11362.0,2178.0 11420.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M11724.0,2178.0 C11782.0,2178.0 11782.0,2178.0 11840.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M12144.0,2178.0 C12202.0,2178.0 12202.0,2578.0 12260.0,2578.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M12564.0,2578.0 C12622.0,2578.0 12622.0,2578.0 12680.0,2578.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M12984.0,2578.0 C13042.0,2578.0 13042.0,2578.0 13100.0,2578.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M13404.0,2578.0 C13462.0,2578.0 13462.0,2578.0 13520.0,2578.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M13824.0,2578.0 C13882.0,2578.0 13882.0,2578.0 13940.0,2578.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M12144.0,2178.0 C12202.0,2178.0 12202.0,3378.0 12260.0,3378.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M14244.0,2578.0 C13252.0,2578.0 13252.0,3378.0 12260.0,3378.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M12564.0,3378.0 C12622.0,3378.0 12622.0,3378.0 12680.0,3378.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M12984.0,3378.0 C15352.0,3378.0 15352.0,2178.0 17720.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M14244.0,2578.0 C14302.0,2578.0 14302.0,2978.0 14360.0,2978.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M14664.0,2978.0 C14722.0,2978.0 14722.0,3031.0 14780.0,3031.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M15084.0,3031.0 C15142.0,3031.0 15142.0,2978.0 15200.0,2978.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M15084.0,3031.0 C10312.0,3031.0 10312.0,178.0 5540.0,178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M15504.0,2978.0 C15562.0,2978.0 15562.0,2978.0 15620.0,2978.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M15924.0,2978.0 C15982.0,2978.0 15982.0,2978.0 16040.0,2978.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M16344.0,2978.0 C16402.0,2978.0 16402.0,2978.0 16460.0,2978.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M16764.0,2978.0 C16822.0,2978.0 16822.0,2978.0 16880.0,2978.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M17184.0,2978.0 C17242.0,2978.0 17242.0,2978.0 17300.0,2978.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M17604.0,2978.0 C17662.0,2978.0 17662.0,2178.0 17720.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M16764.0,2978.0 C16822.0,2978.0 16822.0,2778.0 16880.0,2778.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M17184.0,2778.0 C17452.0,2778.0 17452.0,2178.0 17720.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M15084.0,3031.0 C14722.0,3031.0 14722.0,2578.0 14360.0,2578.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M14664.0,2578.0 C14722.0,2578.0 14722.0,2578.0 14780.0,2578.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M15084.0,2578.0 C16402.0,2578.0 16402.0,2178.0 17720.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M15084.0,2578.0 C15142.0,2578.0 15142.0,2578.0 15200.0,2578.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M15504.0,2578.0 C15562.0,2578.0 15562.0,2578.0 15620.0,2578.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M15924.0,2578.0 C15982.0,2578.0 15982.0,2578.0 16040.0,2578.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M16344.0,2578.0 C16402.0,2578.0 16402.0,2578.0 16460.0,2578.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M16764.0,2578.0 C16822.0,2578.0 16822.0,2578.0 16880.0,2578.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M17184.0,2578.0 C17242.0,2578.0 17242.0,2578.0 17300.0,2578.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M17604.0,2578.0 C17662.0,2578.0 17662.0,2178.0 17720.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M384.0,578.0 C442.0,578.0 442.0,578.0 500.0,578.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M804.0,578.0 C862.0,578.0 862.0,578.0 920.0,578.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M1224.0,578.0 C1912.0,578.0 1912.0,578.0 2600.0,578.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M2904.0,578.0 C2962.0,578.0 2962.0,778.0 3020.0,778.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M2904.0,578.0 C2962.0,578.0 2962.0,578.0 3020.0,578.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M3324.0,778.0 C10522.0,778.0 10522.0,2178.0 17720.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M3324.0,578.0 C3172.0,578.0 3172.0,978.0 3020.0,978.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M3324.0,578.0 C3382.0,578.0 3382.0,578.0 3440.0,578.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M3744.0,578.0 C3802.0,578.0 3802.0,578.0 3860.0,578.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M4164.0,578.0 C4222.0,578.0 4222.0,578.0 4280.0,578.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M4584.0,578.0 C4642.0,578.0 4642.0,578.0 4700.0,578.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M3324.0,978.0 C10522.0,978.0 10522.0,2178.0 17720.0,2178.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="80.0" y="550.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#16a34a" stroke-width="2.5"/>
+<rect x="80.0" y="550.0" width="8" height="56.0" rx="2" fill="#16a34a"/>
+<text x="98.0" y="568.0" font-family="sans-serif" font-size="11" fill="#16a34a">start</text>
+<text x="98.0" y="588.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">开始(输入)</text>
+<rect x="500.0" y="550.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#7c3aed" stroke-width="2.5"/>
+<rect x="500.0" y="550.0" width="8" height="56.0" rx="2" fill="#7c3aed"/>
+<text x="518.0" y="568.0" font-family="sans-serif" font-size="11" fill="#7c3aed">llm</text>
+<text x="518.0" y="588.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">意图识别</text>
+<rect x="920.0" y="550.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="920.0" y="550.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="938.0" y="568.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="938.0" y="588.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">解析意图</text>
+<rect x="2600.0" y="550.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#2563eb" stroke-width="2.5"/>
+<rect x="2600.0" y="550.0" width="8" height="56.0" rx="2" fill="#2563eb"/>
+<text x="2618.0" y="568.0" font-family="sans-serif" font-size="11" fill="#2563eb">if-else</text>
+<text x="2618.0" y="588.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">是否重新开始</text>
+<rect x="3020.0" y="550.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#2563eb" stroke-width="2.5"/>
+<rect x="3020.0" y="550.0" width="8" height="56.0" rx="2" fill="#2563eb"/>
+<text x="3038.0" y="568.0" font-family="sans-serif" font-size="11" fill="#2563eb">if-else</text>
+<text x="3038.0" y="588.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">是否进入预约流程</text>
+<rect x="3020.0" y="750.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="3020.0" y="750.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="3038.0" y="768.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="3038.0" y="788.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">会话重置</text>
+<rect x="3020.0" y="950.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="3020.0" y="950.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="3038.0" y="968.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="3038.0" y="988.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">非预约引导</text>
+<rect x="3440.0" y="550.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#7c3aed" stroke-width="2.5"/>
+<rect x="3440.0" y="550.0" width="8" height="56.0" rx="2" fill="#7c3aed"/>
+<text x="3458.0" y="568.0" font-family="sans-serif" font-size="11" fill="#7c3aed">llm</text>
+<text x="3458.0" y="588.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">槽位提取</text>
+<rect x="3860.0" y="550.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="3860.0" y="550.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="3878.0" y="568.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="3878.0" y="588.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">解析槽位</text>
+<rect x="4280.0" y="550.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="4280.0" y="550.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="4298.0" y="568.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="4298.0" y="588.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">合并槽位</text>
+<rect x="4700.0" y="550.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="4700.0" y="550.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="4718.0" y="568.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="4718.0" y="588.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">状态机(输出分支)</text>
+<rect x="17720.0" y="2150.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="17720.0" y="2150.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="17738.0" y="2168.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="17738.0" y="2188.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">分支汇入写回</text>
+<rect x="18140.0" y="2150.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#4f46e5" stroke-width="2.5"/>
+<rect x="18140.0" y="2150.0" width="8" height="56.0" rx="2" fill="#4f46e5"/>
+<text x="18158.0" y="2168.0" font-family="sans-serif" font-size="11" fill="#4f46e5">assigner</text>
+<text x="18158.0" y="2188.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">统一写回全局变量</text>
+<rect x="18560.0" y="2150.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#0ea5e9" stroke-width="2.5"/>
+<rect x="18560.0" y="2150.0" width="8" height="56.0" rx="2" fill="#0ea5e9"/>
+<text x="18578.0" y="2168.0" font-family="sans-serif" font-size="11" fill="#0ea5e9">answer</text>
+<text x="18578.0" y="2188.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">回复(输出)</text>
+<rect x="5120.0" y="1750.0" width="304.0" height="342.0" rx="10" fill="#ffffff" stroke="#2563eb" stroke-width="2.5"/>
+<rect x="5120.0" y="1750.0" width="8" height="342.0" rx="2" fill="#2563eb"/>
+<text x="5138.0" y="1768.0" font-family="sans-serif" font-size="11" fill="#2563eb">if-else</text>
+<text x="5138.0" y="1788.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">状态机分支路由</text>
+<rect x="5540.0" y="150.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="5540.0" y="150.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="5558.0" y="168.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="5558.0" y="188.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">改口引导回复</text>
+<rect x="5540.0" y="550.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="5540.0" y="550.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="5558.0" y="568.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="5558.0" y="588.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">预留流程回复</text>
+<rect x="5540.0" y="950.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="5540.0" y="950.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="5558.0" y="968.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="5558.0" y="988.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">追问补充信息</text>
+<rect x="5540.0" y="3750.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="5540.0" y="3750.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="5558.0" y="3768.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="5558.0" y="3788.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">取本周查询窗</text>
+<rect x="5960.0" y="3750.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="5960.0" y="3750.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="5978.0" y="3768.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="5978.0" y="3788.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">HTTP 查一周闲忙</text>
+<rect x="6380.0" y="3750.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="6380.0" y="3750.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="6398.0" y="3768.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="6398.0" y="3788.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">生成空闲表</text>
+<rect x="5540.0" y="2150.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="5540.0" y="2150.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="5558.0" y="2168.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="5558.0" y="2188.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">取老师名</text>
+<rect x="5960.0" y="2150.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="5960.0" y="2150.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="5978.0" y="2168.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="5978.0" y="2188.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">HTTP 查员工</text>
+<rect x="6380.0" y="2150.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="6380.0" y="2150.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="6398.0" y="2168.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="6398.0" y="2188.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">重名核对</text>
+<rect x="6800.0" y="2150.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#2563eb" stroke-width="2.5"/>
+<rect x="6800.0" y="2150.0" width="8" height="56.0" rx="2" fill="#2563eb"/>
+<text x="6818.0" y="2168.0" font-family="sans-serif" font-size="11" fill="#2563eb">if-else</text>
+<text x="6818.0" y="2188.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">是否重名待选</text>
+<rect x="7220.0" y="2150.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="7220.0" y="2150.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="7238.0" y="2168.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="7238.0" y="2188.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">老师核对后分流</text>
+<rect x="7640.0" y="2150.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#2563eb" stroke-width="2.5"/>
+<rect x="7640.0" y="2150.0" width="8" height="56.0" rx="2" fill="#2563eb"/>
+<text x="7658.0" y="2168.0" font-family="sans-serif" font-size="11" fill="#2563eb">if-else</text>
+<text x="7658.0" y="2188.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">老师链是否结束</text>
+<rect x="8060.0" y="2150.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="8060.0" y="2150.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="8078.0" y="2168.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="8078.0" y="2188.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">取时段校验draft</text>
+<rect x="8480.0" y="2150.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="8480.0" y="2150.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="8498.0" y="2168.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="8498.0" y="2188.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">校验上班时段</text>
+<rect x="8900.0" y="2150.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#2563eb" stroke-width="2.5"/>
+<rect x="8900.0" y="2150.0" width="8" height="56.0" rx="2" fill="#2563eb"/>
+<text x="8918.0" y="2168.0" font-family="sans-serif" font-size="11" fill="#2563eb">if-else</text>
+<text x="8918.0" y="2188.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">上班时段是否合法</text>
+<rect x="9320.0" y="2150.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="9320.0" y="2150.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="9338.0" y="2168.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="9338.0" y="2188.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">取时间窗/请假日</text>
+<rect x="9740.0" y="2150.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="9740.0" y="2150.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="9758.0" y="2168.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="9758.0" y="2188.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">HTTP 查是否请假</text>
+<rect x="10160.0" y="2150.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="10160.0" y="2150.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="10178.0" y="2168.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="10178.0" y="2188.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">解析请假</text>
+<rect x="10580.0" y="2150.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#2563eb" stroke-width="2.5"/>
+<rect x="10580.0" y="2150.0" width="8" height="56.0" rx="2" fill="#2563eb"/>
+<text x="10598.0" y="2168.0" font-family="sans-serif" font-size="11" fill="#2563eb">if-else</text>
+<text x="10598.0" y="2188.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">是否请假中</text>
+<rect x="11000.0" y="2150.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="11000.0" y="2150.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="11018.0" y="2168.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="11018.0" y="2188.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">HTTP 查老师闲忙</text>
+<rect x="11420.0" y="2150.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="11420.0" y="2150.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="11438.0" y="2168.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="11438.0" y="2188.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">解析忙闲</text>
+<rect x="11840.0" y="2150.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#2563eb" stroke-width="2.5"/>
+<rect x="11840.0" y="2150.0" width="8" height="56.0" rx="2" fill="#2563eb"/>
+<text x="11858.0" y="2168.0" font-family="sans-serif" font-size="11" fill="#2563eb">if-else</text>
+<text x="11858.0" y="2188.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">老师是否忙</text>
+<rect x="12260.0" y="2550.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="12260.0" y="2550.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="12278.0" y="2568.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="12278.0" y="2588.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">合并查房上下文</text>
+<rect x="12680.0" y="2550.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="12680.0" y="2550.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="12698.0" y="2568.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="12698.0" y="2588.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">取查房时间窗</text>
+<rect x="13100.0" y="2550.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="13100.0" y="2550.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="13118.0" y="2568.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="13118.0" y="2588.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">HTTP 查会议室</text>
+<rect x="13520.0" y="2550.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="13520.0" y="2550.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="13538.0" y="2568.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="13538.0" y="2588.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">解析会议室</text>
+<rect x="13940.0" y="2550.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#2563eb" stroke-width="2.5"/>
+<rect x="13940.0" y="2550.0" width="8" height="56.0" rx="2" fill="#2563eb"/>
+<text x="13958.0" y="2568.0" font-family="sans-serif" font-size="11" fill="#2563eb">if-else</text>
+<text x="13958.0" y="2588.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">是否有空会议室</text>
+<rect x="12260.0" y="3350.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="12260.0" y="3350.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="12278.0" y="3368.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="12278.0" y="3388.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">合并推荐上下文</text>
+<rect x="12680.0" y="3350.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="12680.0" y="3350.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="12698.0" y="3368.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="12698.0" y="3388.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">最近可约</text>
+<rect x="14360.0" y="2950.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="14360.0" y="2950.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="14378.0" y="2968.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="14378.0" y="2988.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">是否需核对单</text>
+<rect x="14780.0" y="2950.0" width="304.0" height="162.0" rx="10" fill="#ffffff" stroke="#2563eb" stroke-width="2.5"/>
+<rect x="14780.0" y="2950.0" width="8" height="162.0" rx="2" fill="#2563eb"/>
+<text x="14798.0" y="2968.0" font-family="sans-serif" font-size="11" fill="#2563eb">if-else</text>
+<text x="14798.0" y="2988.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">是否需要核对</text>
+<rect x="15200.0" y="2950.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="15200.0" y="2950.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="15218.0" y="2968.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="15218.0" y="2988.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">裁剪审核输入</text>
+<rect x="15620.0" y="2950.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#7c3aed" stroke-width="2.5"/>
+<rect x="15620.0" y="2950.0" width="8" height="56.0" rx="2" fill="#7c3aed"/>
+<text x="15638.0" y="2968.0" font-family="sans-serif" font-size="11" fill="#7c3aed">llm</text>
+<text x="15638.0" y="2988.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">预定前审核</text>
+<rect x="16040.0" y="2950.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="16040.0" y="2950.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="16058.0" y="2968.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="16058.0" y="2988.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">解析审核JSON</text>
+<rect x="16460.0" y="2950.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#2563eb" stroke-width="2.5"/>
+<rect x="16460.0" y="2950.0" width="8" height="56.0" rx="2" fill="#2563eb"/>
+<text x="16478.0" y="2968.0" font-family="sans-serif" font-size="11" fill="#2563eb">if-else</text>
+<text x="16478.0" y="2988.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">审核是否对齐</text>
+<rect x="16880.0" y="2950.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#7c3aed" stroke-width="2.5"/>
+<rect x="16880.0" y="2950.0" width="8" height="56.0" rx="2" fill="#7c3aed"/>
+<text x="16898.0" y="2968.0" font-family="sans-serif" font-size="11" fill="#7c3aed">llm</text>
+<text x="16898.0" y="2988.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">生成核对单</text>
+<rect x="17300.0" y="2950.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="17300.0" y="2950.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="17318.0" y="2968.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="17318.0" y="2988.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">标记待确认</text>
+<rect x="16880.0" y="2750.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="16880.0" y="2750.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="16898.0" y="2768.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="16898.0" y="2788.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">拼澄清话术</text>
+<rect x="14360.0" y="2550.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="14360.0" y="2550.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="14378.0" y="2568.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="14378.0" y="2588.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">预订前复查</text>
+<rect x="14780.0" y="2550.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#2563eb" stroke-width="2.5"/>
+<rect x="14780.0" y="2550.0" width="8" height="56.0" rx="2" fill="#2563eb"/>
+<text x="14798.0" y="2568.0" font-family="sans-serif" font-size="11" fill="#2563eb">if-else</text>
+<text x="14798.0" y="2588.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">预订前是否通过</text>
+<rect x="15200.0" y="2550.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="15200.0" y="2550.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="15218.0" y="2568.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="15218.0" y="2588.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">取预订参数</text>
+<rect x="15620.0" y="2550.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="15620.0" y="2550.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="15638.0" y="2568.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="15638.0" y="2588.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">取预订时间窗</text>
+<rect x="16040.0" y="2550.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="16040.0" y="2550.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="16058.0" y="2568.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="16058.0" y="2588.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">HTTP 保存预约</text>
+<rect x="16460.0" y="2550.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="16460.0" y="2550.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="16478.0" y="2568.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="16478.0" y="2588.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">提取会议单号</text>
+<rect x="16880.0" y="2550.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="16880.0" y="2550.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="16898.0" y="2568.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="16898.0" y="2588.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">HTTP 发邀请邮件</text>
+<rect x="17300.0" y="2550.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="17300.0" y="2550.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="17318.0" y="2568.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="17318.0" y="2588.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">预约成功回复</text>
+</svg>

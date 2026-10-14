@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="640" viewBox="0 0 1400 640">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <text x="40" y="48" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="32" font-weight="600" fill="#1e3a5f">各项目独特之处（简历口径）</text>
+<rect x="40" y="90" width="640" height="240" rx="16" fill="#f5f7fa" stroke="#1e3a5f" stroke-width="2"/>
+<text x="68" y="130" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="22" font-weight="600" fill="#1e3a5f">工作票智能审核</text>
+<text x="68" y="180" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="16" font-weight="400" fill="#475569">·  规则 + 模型双通道</text>
+<text x="68" y="215" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="16" font-weight="400" fill="#475569">·  3 类票 · 13 条规则</text>
+<text x="68" y="250" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="16" font-weight="400" fill="#475569">·  约 3min → 30s/张</text>
+<text x="68" y="285" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="16" font-weight="400" fill="#475569">·  准确率提升约 12%</text>
+<rect x="720" y="90" width="640" height="240" rx="16" fill="#f5f7fa" stroke="#1e3a5f" stroke-width="2"/>
+<text x="748" y="130" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="22" font-weight="600" fill="#1e3a5f">知识库 RAG</text>
+<text x="748" y="180" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="16" font-weight="400" fill="#475569">·  OFD→解析→入库全链路</text>
+<text x="748" y="215" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="16" font-weight="400" fill="#475569">·  滑动窗口语义切分</text>
+<text x="748" y="250" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="16" font-weight="400" fill="#475569">·  Recall@5：74%→91%</text>
+<text x="748" y="285" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="16" font-weight="400" fill="#475569">·  ARM64 内网离线部署</text>
+<rect x="40" y="360" width="640" height="240" rx="16" fill="#f5f7fa" stroke="#1e3a5f" stroke-width="2"/>
+<text x="68" y="400" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="22" font-weight="600" fill="#1e3a5f">会议预约智能体</text>
+<text x="68" y="450" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="16" font-weight="400" fill="#475569">·  多轮会话状态机</text>
+<text x="68" y="485" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="16" font-weight="400" fill="#475569">·  改口后作废旧校验</text>
+<text x="68" y="520" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="16" font-weight="400" fill="#475569">·  47 场景回归</text>
+<text x="68" y="555" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="16" font-weight="400" fill="#475569">·  任务完成率约 96%</text>
+<rect x="720" y="360" width="640" height="240" rx="16" fill="#f5f7fa" stroke="#1e3a5f" stroke-width="2"/>
+<text x="748" y="400" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="22" font-weight="600" fill="#1e3a5f">智能问数</text>
+<text x="748" y="450" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="16" font-weight="400" fill="#475569">·  多意图拆分子流程</text>
+<text x="748" y="485" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="16" font-weight="400" fill="#475569">·  只读执行 + 质检回环</text>
+<text x="748" y="520" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="16" font-weight="400" fill="#475569">·  失败明确降级</text>
+<text x="748" y="555" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="16" font-weight="400" fill="#475569">·  不胡答数字</text>
+</svg>

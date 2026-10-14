@@ -1,0 +1,29 @@
+# 智能问数
+
+用正常人说的话查数据库，返回能看懂的答案。这里主要是学完现网问数智能体之后整理的做法。
+
+![智能问数流程](../../assets/diagrams/text-to-sql-flow-zh.svg)
+
+## 有什么不一样
+
+- 先分清要查哪一类事；一次问好几件事就拆开，一件一件办
+- 只把这一类相关的表和字段说明送给模型，再让它写查询
+- 用只读账号执行，降低改坏数据的风险
+- 结果不对就把错误信息送回去重写，最多三次
+- 还是不行就明确说库里没有，不瞎编数字
+
+## 背景
+
+业务想用白话查数，但不能写出危险语句，也不能查不到还装作有答案。
+
+## 我做了什么
+
+- 梳理现网流程：认意图 → 子流程 → 写查询 → 执行 → 质检 → 汇总回答
+- 把稳定性做法写成说明和流程图
+
+## 更细的设计
+
+- [docs/design.md](./docs/design.md)
+- [diagrams/workflow.md](./diagrams/workflow.md)
+- [examples/sample.md](./examples/sample.md)
+- [evaluation/report.md](./evaluation/report.md)

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3640" height="830" viewBox="0 0 3640 830">
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#94a3b8"/></marker>
+</defs>
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<text x="80" y="36" font-family="PingFang SC, Heiti SC, sans-serif" font-size="28" font-weight="600" fill="#1e3a5f">知识库问答 · 循环检索</text>
+<path d="M444.0,318.0 C412.0,318.0 412.0,318.0 380.0,318.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M384.0,228.0 C422.0,228.0 422.0,228.0 460.0,228.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M764.0,228.0 C612.0,228.0 612.0,398.0 460.0,398.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M764.0,398.0 C802.0,398.0 802.0,480.0 840.0,480.0" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="80.0" y="200.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#4f46e5" stroke-width="2.5"/>
+<rect x="80.0" y="200.0" width="8" height="56.0" rx="2" fill="#4f46e5"/>
+<text x="98.0" y="218.0" font-family="sans-serif" font-size="11" fill="#4f46e5">assigner</text>
+<text x="98.0" y="238.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">写入选库与改写query</text>
+<rect x="460.0" y="200.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="460.0" y="200.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="478.0" y="218.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="478.0" y="238.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">生成试库顺序</text>
+<rect x="460.0" y="370.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#4f46e5" stroke-width="2.5"/>
+<rect x="460.0" y="370.0" width="8" height="56.0" rx="2" fill="#4f46e5"/>
+<text x="478.0" y="388.0" font-family="sans-serif" font-size="11" fill="#4f46e5">assigner</text>
+<text x="478.0" y="408.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">写入试库顺序</text>
+<rect x="840.0" y="200.0" width="2720.0" height="560.0" rx="10" fill="#ffffff" stroke="#475569" stroke-width="2.5"/>
+<rect x="840.0" y="200.0" width="8" height="560.0" rx="2" fill="#475569"/>
+<text x="858.0" y="218.0" font-family="sans-serif" font-size="11" fill="#475569">loop</text>
+<text x="858.0" y="238.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">循环检索×5跨库</text>
+<rect x="140.0" y="150.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#4f46e5" stroke-width="2.5"/>
+<rect x="140.0" y="150.0" width="8" height="56.0" rx="2" fill="#4f46e5"/>
+<text x="158.0" y="168.0" font-family="sans-serif" font-size="11" fill="#4f46e5">assigner</text>
+<text x="158.0" y="188.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">保留有用chunk</text>
+<rect x="140.0" y="290.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="140.0" y="290.0" width="8" height="56.0" rx="2" fill="#ea580c"/>
+<text x="158.0" y="308.0" font-family="sans-serif" font-size="11" fill="#ea580c">code</text>
+<text x="158.0" y="328.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">质检未通过则换库</text>
+<rect x="380.0" y="290.0" width="304.0" height="56.0" rx="10" fill="#ffffff" stroke="#4f46e5" stroke-width="2.5"/>
+<rect x="380.0" y="290.0" width="8" height="56.0" rx="2" fill="#4f46e5"/>
+<text x="398.0" y="308.0" font-family="sans-serif" font-size="11" fill="#4f46e5">assigner</text>
+<text x="398.0" y="328.0" font-family="PingFang SC, Heiti SC, sans-serif" font-size="15" font-weight="600" fill="#0f172a">写入候选与下一库下标</text>
+</svg>
