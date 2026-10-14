@@ -11,9 +11,9 @@
 <rect x="720" y="90" width="640" height="240" rx="16" fill="#f5f7fa" stroke="#1e3a5f" stroke-width="2"/>
 <text x="748" y="130" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="22" font-weight="600" fill="#1e3a5f">知识库 RAG</text>
 <text x="748" y="180" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="16" font-weight="400" fill="#475569">·  OFD→解析→入库全链路</text>
-<text x="748" y="215" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="16" font-weight="400" fill="#475569">·  滑动窗口语义切分</text>
-<text x="748" y="250" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="16" font-weight="400" fill="#475569">·  Recall@5：74%→91%</text>
-<text x="748" y="285" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="16" font-weight="400" fill="#475569">·  ARM64 内网离线部署</text>
+<text x="748" y="215" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="16" font-weight="400" fill="#475569">·  滑动窗口切分</text>
+<text x="748" y="250" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="16" font-weight="400" fill="#475569">·  召回率从 74% 提升到 91%</text>
+<text x="748" y="285" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="16" font-weight="400" fill="#475569">·  一万多份文档入库</text>
 <rect x="40" y="360" width="640" height="240" rx="16" fill="#f5f7fa" stroke="#1e3a5f" stroke-width="2"/>
 <text x="68" y="400" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="22" font-weight="600" fill="#1e3a5f">会议预约智能体</text>
 <text x="68" y="450" text-anchor="start" font-family="PingFang SC, Heiti SC, sans-serif" font-size="16" font-weight="400" fill="#475569">·  多轮会话状态机</text>
