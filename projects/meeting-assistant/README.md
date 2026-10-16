@@ -18,7 +18,7 @@
 
 - 设计会话状态：聊到哪一步、缺什么信息
 - 把大模型、代码、接口节点拆开，一个接口一个节点
-- 搭本地联调服务；写场景化测试并跑通
+- 搭本机假接口；写场景化测试并跑通
 
 ## 流程大概这样
 
@@ -35,7 +35,7 @@
 
 流程图：[diagrams/workflow.md](./diagrams/workflow.md) · [meeting-workflow.svg](../../assets/diagrams/meeting-workflow.svg)
 
-## 本地联调
+## 本机怎么试跑
 
 ```bash
 cd demo/mock-server

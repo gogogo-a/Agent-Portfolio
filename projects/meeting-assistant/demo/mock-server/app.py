@@ -22,7 +22,7 @@ app = FastAPI(title="Meeting Mock API", version="1.1.0")
 # 显式「查无此人」姓名（验收：T28）
 NOT_FOUND_NAMES = frozenset({"不存在", "查无此人", "赵敏", "nobody"})
 
-# Demo 规则目录（GET /mock/rules 与 README 对齐，便于联调）
+# Demo 规则目录（GET /mock/rules 与 README 对齐，便于试跑）
 MOCK_RULES = [
     {"id": "dup_wang", "match": "王小明", "effect": "OA 返回 2 人重名（1001/2033）"},
     {"id": "busy_lihua_fri14", "match": "李华+周五14:00", "effect": "Outlook HasMeeting"},
@@ -96,7 +96,7 @@ def _leave_for_emp(emp_no: str, when: datetime) -> Optional[dict]:
     Demo 请假规则（按工号 + 星期 / 固定工号）：
     - 4001 张老师：每周五全天请假 08:30-17:00
     - 2033 王小明(经管)：每周一上午请假 08:30-12:00
-    - 9999：任意日期整天请假（联调专用）
+    - 9999：任意日期整天请假（试跑专用）
     - 3001 李华：不在此请假（周五14点走 Outlook 忙，方便分支分开测）
     """
     emp = (emp_no or "").strip()

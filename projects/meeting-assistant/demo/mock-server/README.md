@@ -1,6 +1,6 @@
-# 会议预约联调服务
+# 会议预约本机假接口
 
-开发联调时用的本机服务，端口 8888。用来测重名、忙碌、满房、请假等路径。
+本机试跑用的服务，端口 8888。用来测重名、忙碌、满房、请假等路径。
 
 ## 启动
 
@@ -21,8 +21,8 @@ python app.py
 | `base_meeting` | `http://127.0.0.1:8888/MeetingRoom` | 会议室 |
 | `base_outlook` | `http://127.0.0.1:8888/NexOutlook` | 闲忙 |
 | `base_notify` | `http://127.0.0.1:8888` | 邮件通知 |
-| `oa_appno` / `oa_appsecret` | 联调占位 | OA 请求头 |
-| `outlook_secret` | 联调占位 | Outlook 请求头 |
+| `oa_appno` / `oa_appsecret` | 试跑占位 | OA 请求头 |
+| `outlook_secret` | 试跑占位 | Outlook 请求头 |
 
 OA 用 `appno` / `appsecret`；Outlook 用 `X-App-Secret`；会议室接口用 `Content-Type: application/json-patch+json`。
 
@@ -47,7 +47,7 @@ curl -s -X POST http://127.0.0.1:8888/MeetingRoom/api/MeetingRoom/BookableMeetRo
   -d '{"startTime":"2026-09-26T16:00:00","endTime":"2026-09-26T17:00:00"}'
 ```
 
-## 联调规则
+## 试跑规则
 
 | 规则 | 触发 | 效果 |
 |------|------|------|
