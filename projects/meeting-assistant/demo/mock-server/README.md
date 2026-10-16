@@ -1,6 +1,7 @@
-# 会议预约本机假接口
+# 会议预约 · 本机模拟（线上真实接口）
 
-本机试跑用的服务，端口 8888。用来测重名、忙碌、满房、请假等路径。
+按**线上真实接口**在本地模拟：路径、请求头约定与线上一致，方便本机复现重名、忙碌、满房、请假等场景。  
+业务已在线上测过；本服务只用于本机跑通与回归。端口 8888。
 
 ## 启动
 
@@ -21,8 +22,8 @@ python app.py
 | `base_meeting` | `http://127.0.0.1:8888/MeetingRoom` | 会议室 |
 | `base_outlook` | `http://127.0.0.1:8888/NexOutlook` | 闲忙 |
 | `base_notify` | `http://127.0.0.1:8888` | 邮件通知 |
-| `oa_appno` / `oa_appsecret` | 试跑占位 | OA 请求头 |
-| `outlook_secret` | 试跑占位 | Outlook 请求头 |
+| `oa_appno` / `oa_appsecret` | 本机占位 | OA 请求头 |
+| `outlook_secret` | 本机占位 | Outlook 请求头 |
 
 OA 用 `appno` / `appsecret`；Outlook 用 `X-App-Secret`；会议室接口用 `Content-Type: application/json-patch+json`。
 
@@ -47,7 +48,7 @@ curl -s -X POST http://127.0.0.1:8888/MeetingRoom/api/MeetingRoom/BookableMeetRo
   -d '{"startTime":"2026-09-26T16:00:00","endTime":"2026-09-26T17:00:00"}'
 ```
 
-## 试跑规则
+## 本机可复现规则
 
 | 规则 | 触发 | 效果 |
 |------|------|------|
