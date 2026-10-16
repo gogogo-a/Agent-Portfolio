@@ -14,9 +14,23 @@
 另外还有 [审批催办](./projects/approval-reminder/) 和 [报税自动填表](./projects/tax-filing-rpa/)。  
 自己写的小项目：[MiniCode](https://github.com/gogogo-a/MiniCode)。
 
-## 流程画布
+## 流程图
 
-见 [assets/screenshots/](./assets/screenshots/)。
+### 会议预约
+
+![会议预约](./assets/diagrams/meeting-workflow.svg)
+
+### 知识库问答
+
+![知识库问答](./assets/diagrams/rag-workflow.svg)
+
+### 滑动窗口切段
+
+![滑动窗口切段](./assets/diagrams/rag-chunk-workflow.svg)
+
+### 工作票审核
+
+![工作票审核](./assets/diagrams/ticket-workflow.svg)
 
 ## 平时怎么做项目
 

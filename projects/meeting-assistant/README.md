@@ -33,7 +33,7 @@
 详细设计：[docs/design.md](./docs/design.md)  
 状态机代码：[src/code_state_machine.py](./src/code_state_machine.py)
 
-画布截图：`assets/screenshots/meeting-canvas.png`、`assets/screenshots/meeting-branch.png`
+流程图：[diagrams/workflow.md](./diagrams/workflow.md) · [meeting-workflow.svg](../../assets/diagrams/meeting-workflow.svg)
 
 ## 本地联调
 

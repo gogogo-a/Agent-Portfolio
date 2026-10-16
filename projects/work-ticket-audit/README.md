@@ -33,7 +33,7 @@
 更细的设计：[docs/design.md](./docs/design.md)  
 流程图：[diagrams/workflow.md](./diagrams/workflow.md)
 
-画布截图：`assets/screenshots/ticket-canvas.png`
+流程图：[diagrams/workflow.md](./diagrams/workflow.md) · [ticket-workflow.svg](../../assets/diagrams/ticket-workflow.svg)
 
 ## 难在哪
 

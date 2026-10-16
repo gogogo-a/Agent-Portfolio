@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1050" viewBox="0 0 1000 1050">
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+<path d="M 0 0 L 10 5 L 0 10 z" fill="#64748B"/>
+</marker>
+<filter id="shadow" x="-5%" y="-5%" width="110%" height="110%"><feDropShadow dx="0" dy="1" stdDeviation="1.5" flood-opacity="0.12"/></filter>
+</defs>
+<rect width="100%" height="100%" fill="#FAFBFC"/>
+<text x="40" y="36" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#111827">工作票智能审核</text>
+<path d="M 530.0 80 L 530.0 95.0 L 530.0 95.0 L 530.0 110" fill="none" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 530.0 154 L 530.0 172.0 L 530.0 172.0 L 530.0 190" fill="none" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 590 222.0 L 655.0 222.0 L 655.0 220.0 L 720 220.0" fill="none" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="651.0" y="202.0" width="36" height="16" rx="3" fill="#FAFBFC" opacity="0.92"/><text x="655.0" y="214.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569">否</text>
+<path d="M 530.0 254 L 530.0 272.0 L 530.0 272.0 L 530.0 290" fill="none" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="534.0" y="262.0" width="36" height="16" rx="3" fill="#FAFBFC" opacity="0.92"/><text x="538.0" y="274.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569">是</text>
+<path d="M 530.0 334 L 530.0 352.0 L 530.0 352.0 L 530.0 370" fill="none" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 530.0 414 L 530.0 432.0 L 530.0 432.0 L 530.0 450" fill="none" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 590 482.0 L 645.0 482.0 L 645.0 480.0 L 700 480.0" fill="none" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="641.0" y="462.0" width="36" height="16" rx="3" fill="#FAFBFC" opacity="0.92"/><text x="645.0" y="474.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569">否</text>
+<path d="M 530.0 514 L 530.0 532.0 L 530.0 532.0 L 530.0 550" fill="none" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="534.0" y="522.0" width="36" height="16" rx="3" fill="#FAFBFC" opacity="0.92"/><text x="538.0" y="534.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569">是</text>
+<path d="M 590 582.0 L 655.0 582.0 L 655.0 580.0 L 720 580.0" fill="none" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="651.0" y="562.0" width="36" height="16" rx="3" fill="#FAFBFC" opacity="0.92"/><text x="655.0" y="574.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569">否</text>
+<path d="M 470 582.0 L 435.0 582.0 L 435.0 672.0 L 400 672.0" fill="none" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="431.0" y="564.0" width="36" height="16" rx="3" fill="#FAFBFC" opacity="0.92"/><text x="435.0" y="576.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569">是</text>
+<path d="M 530.0 614 L 530.0 632.0 L 530.0 632.0 L 530.0 650" fill="none" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="534.0" y="622.0" width="36" height="16" rx="3" fill="#FAFBFC" opacity="0.92"/><text x="538.0" y="634.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569">是</text>
+<path d="M 530.0 690 L 530.0 670.0 L 715.0 670.0 L 715.0 650" fill="none" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 715.0 694 L 715.0 712.0 L 720.0 712.0 L 720.0 730" fill="none" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 340.0 694 L 340.0 752.0 L 520.0 752.0 L 520.0 810" fill="none" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 650 750.0 L 620.0 750.0 L 620.0 830.0 L 590 830.0" fill="none" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 520.0 850 L 520.0 865.0 L 520.0 865.0 L 520.0 880" fill="none" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 520.0 924 L 520.0 947.0 L 530.0 947.0 L 530.0 970" fill="none" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 840 220.0 L 650.0 220.0 L 650.0 990.0 L 460 990.0" fill="none" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)" stroke-dasharray="6 4"/>
+<path d="M 850 480.0 L 655.0 480.0 L 655.0 990.0 L 460 990.0" fill="none" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)" stroke-dasharray="6 4"/>
+<path d="M 840 580.0 L 650.0 580.0 L 650.0 990.0 L 460 990.0" fill="none" stroke="#64748B" stroke-width="1.6" marker-end="url(#arrow)" stroke-dasharray="6 4"/>
+<rect x="460" y="40" width="140" height="40" rx="18" fill="#1F2937" stroke="#F9FAFB" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="530.0" y="64.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#F9FAFB" font-weight="700">上传工作票</text>
+<rect x="450" y="110" width="160" height="44" rx="10" fill="#F0F9FF" stroke="#0284C8" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="530.0" y="136.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#0C4A6E">把文件读成文字</text>
+<polygon points="530.0,190 590,222.0 530.0,254 470,222.0" fill="#FFFBEB" stroke="#D97706" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="530.0" y="222.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#92400E">读成功?</text>
+<rect x="720" y="200" width="120" height="40" rx="14" fill="#F8FAFC" stroke="#64748B" stroke-width="1.5" filter="url(#shadow)" stroke-dasharray="6 4"/>
+<text x="780.0" y="224.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#334155">说读失败了</text>
+<rect x="460" y="290" width="140" height="44" rx="10" fill="#EFF6FF" stroke="#2563EB" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="530.0" y="316.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1E3A8A">填出各项内容</text>
+<rect x="470" y="370" width="120" height="44" rx="10" fill="#ECFDF5" stroke="#059669" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="530.0" y="396.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#065F46">整理字段</text>
+<polygon points="530.0,450 590,482.0 530.0,514 470,482.0" fill="#FFFBEB" stroke="#D97706" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="530.0" y="482.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#92400E">是工作票?</text>
+<rect x="700" y="460" width="150" height="40" rx="14" fill="#F8FAFC" stroke="#64748B" stroke-width="1.5" filter="url(#shadow)" stroke-dasharray="6 4"/>
+<text x="775.0" y="484.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#334155">说这不是工作票</text>
+<polygon points="530.0,550 590,582.0 530.0,614 470,582.0" fill="#FFFBEB" stroke="#D97706" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="530.0" y="582.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#92400E">字段齐吗?</text>
+<rect x="720" y="560" width="120" height="40" rx="14" fill="#F8FAFC" stroke="#64748B" stroke-width="1.5" filter="url(#shadow)" stroke-dasharray="6 4"/>
+<text x="780.0" y="584.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#334155">说缺信息</text>
+<rect x="280" y="650" width="120" height="44" rx="10" fill="#ECFDF5" stroke="#059669" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="340.0" y="676.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#065F46">按规则检查</text>
+<rect x="460" y="650" width="140" height="40" rx="10" fill="#ECFDF5" stroke="#059669" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="530.0" y="674.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#065F46">压缩给模型看</text>
+<rect x="640" y="650" width="150" height="44" rx="10" fill="#EFF6FF" stroke="#2563EB" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="715.0" y="676.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1E3A8A">大模型再审一遍</text>
+<rect x="650" y="730" width="140" height="40" rx="10" fill="#ECFDF5" stroke="#059669" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="720.0" y="754.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#065F46">读出模型结论</text>
+<rect x="450" y="810" width="140" height="40" rx="10" fill="#ECFDF5" stroke="#059669" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="520.0" y="834.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#065F46">两边结果合并</text>
+<rect x="450" y="880" width="140" height="44" rx="10" fill="#ECFDF5" stroke="#059669" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="520.0" y="906.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#065F46">写成审核报告</text>
+<rect x="460" y="970" width="140" height="40" rx="14" fill="#F8FAFC" stroke="#64748B" stroke-width="1.5" filter="url(#shadow)" stroke-dasharray="6 4"/>
+<text x="530.0" y="994.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#334155">回复用户</text>
+<text x="40" y="1014" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#94A3B8">图例</text>
+<rect x="80" y="1002" width="14" height="14" rx="3" fill="#EFF6FF" stroke="#2563EB"/>
+<text x="100" y="1014" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#64748B">大模型</text>
+<rect x="170" y="1002" width="14" height="14" rx="3" fill="#ECFDF5" stroke="#059669"/>
+<text x="190" y="1014" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#64748B">程序</text>
+<rect x="260" y="1002" width="14" height="14" rx="3" fill="#F0F9FF" stroke="#0284C8"/>
+<text x="280" y="1014" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#64748B">查系统</text>
+<rect x="350" y="1002" width="14" height="14" rx="3" fill="#FFFBEB" stroke="#D97706"/>
+<text x="370" y="1014" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#64748B">判断</text>
+<rect x="440" y="1002" width="14" height="14" rx="3" fill="#F8FAFC" stroke="#64748B"/>
+<text x="460" y="1014" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#64748B">回复</text>
+</svg>

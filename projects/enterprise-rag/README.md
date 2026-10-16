@@ -32,7 +32,7 @@
 详细设计：[docs/design.md](./docs/design.md)  
 切段说明：[docs/semantic-chunking.md](./docs/semantic-chunking.md)
 
-画布截图：`assets/screenshots/rag-canvas.png`、`assets/screenshots/rag-iteration.png`
+流程图：[diagrams/workflow.md](./diagrams/workflow.md) · [rag-workflow.svg](../../assets/diagrams/rag-workflow.svg) · [rag-chunk-workflow.svg](../../assets/diagrams/rag-chunk-workflow.svg)
 
 ## 自己电脑上可以试
 

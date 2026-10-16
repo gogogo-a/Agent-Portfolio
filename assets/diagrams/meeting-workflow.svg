@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="800" viewBox="0 0 1120 800" shape-rendering="crispEdges">
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+<path d="M 0 0 L 10 5 L 0 10 z" fill="#64748B"/>
+</marker>
+</defs>
+<rect width="100%" height="100%" fill="#FAFBFC"/>
+<text x="40" y="36" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#111827">会议预约助手</text>
+<path d="M 540 90 L 540 128" fill="none" stroke="#64748B" stroke-width="1.5" marker-end="url(#arrow)" shape-rendering="auto"/>
+<path d="M 540 172 L 540 208" fill="none" stroke="#64748B" stroke-width="1.5" marker-end="url(#arrow)" shape-rendering="auto"/>
+<path d="M 540 252 L 540 288" fill="none" stroke="#64748B" stroke-width="1.5" marker-end="url(#arrow)" shape-rendering="auto"/>
+<path d="M 540 332 L 540 370" fill="none" stroke="#64748B" stroke-width="1.5" marker-end="url(#arrow)" shape-rendering="auto"/>
+<path d="M 480 410 L 220 410" fill="none" stroke="#64748B" stroke-width="1.5" marker-end="url(#arrow)" shape-rendering="auto"/>
+<rect x="346.0" y="388.0" width="58" height="16" rx="3" fill="#FAFBFC"/>
+<text x="350.0" y="400.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569">信息不够</text>
+<path d="M 600 410 L 685 410" fill="none" stroke="#64748B" stroke-width="1.5" marker-end="url(#arrow)" shape-rendering="auto"/>
+<rect x="638.5" y="388.0" width="46" height="16" rx="3" fill="#FAFBFC"/>
+<text x="642.5" y="400.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569">去预订</text>
+<path d="M 540 450 L 540 479 L 340 479 L 340 508" fill="none" stroke="#64748B" stroke-width="1.5" marker-end="url(#arrow)" shape-rendering="auto"/>
+<rect x="436.0" y="457.0" width="46" height="16" rx="3" fill="#FAFBFC"/>
+<text x="440.0" y="469.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569">找老师</text>
+<path d="M 540 450 L 540 508" fill="none" stroke="#64748B" stroke-width="1.5" marker-end="url(#arrow)" shape-rendering="auto"/>
+<rect x="548.0" y="469.0" width="46" height="16" rx="3" fill="#FAFBFC"/>
+<text x="552.0" y="481.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569">看空闲</text>
+<path d="M 340 552 L 340 595" fill="none" stroke="#64748B" stroke-width="1.5" marker-end="url(#arrow)" shape-rendering="auto"/>
+<path d="M 285 630 L 220 630" fill="none" stroke="#64748B" stroke-width="1.5" marker-end="url(#arrow)" shape-rendering="auto"/>
+<rect x="248.5" y="608.0" width="34" height="16" rx="3" fill="#FAFBFC"/>
+<text x="252.5" y="620.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569">是</text>
+<path d="M 340 665 L 340 710" fill="none" stroke="#64748B" stroke-width="1.5" marker-end="url(#arrow)" shape-rendering="auto"/>
+<rect x="348.0" y="677.5" width="34" height="16" rx="3" fill="#FAFBFC"/>
+<text x="352.0" y="689.5" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569">否</text>
+<path d="M 410 530 L 475 530" fill="none" stroke="#64748B" stroke-width="1.5" marker-end="url(#arrow)" stroke-dasharray="6 4" shape-rendering="auto"/>
+<rect x="438.5" y="508.0" width="34" height="16" rx="3" fill="#FAFBFC"/>
+<text x="442.5" y="520.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569">继续</text>
+<path d="M 540 552 L 540 610" fill="none" stroke="#64748B" stroke-width="1.5" marker-end="url(#arrow)" shape-rendering="auto"/>
+<path d="M 835 410 L 905 410 L 905 350" fill="none" stroke="#64748B" stroke-width="1.5" marker-end="url(#arrow)" shape-rendering="auto"/>
+<rect x="866.0" y="388.0" width="34" height="16" rx="3" fill="#FAFBFC"/>
+<text x="870.0" y="400.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569">没空</text>
+<path d="M 835 410 L 920 410 L 920 470" fill="none" stroke="#64748B" stroke-width="1.5" marker-end="url(#arrow)" shape-rendering="auto"/>
+<rect x="873.5" y="388.0" width="34" height="16" rx="3" fill="#FAFBFC"/>
+<text x="877.5" y="400.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569">满房</text>
+<path d="M 760 432 L 760 508" fill="none" stroke="#64748B" stroke-width="1.5" marker-end="url(#arrow)" shape-rendering="auto"/>
+<rect x="768.0" y="460.0" width="34" height="16" rx="3" fill="#FAFBFC"/>
+<text x="772.0" y="472.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569">能订</text>
+<path d="M 760 552 L 760 610" fill="none" stroke="#64748B" stroke-width="1.5" marker-end="url(#arrow)" shape-rendering="auto"/>
+<rect x="470.0" y="50.0" width="140.0" height="40.0" rx="18" fill="#1F2937" stroke="#111827" stroke-width="1.5"/>
+<text x="540.0" y="74.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#F9FAFB" font-weight="700">用户说话</text>
+<rect x="460.0" y="128.0" width="160.0" height="44.0" rx="10" fill="#EFF6FF" stroke="#2563EB" stroke-width="1.5"/>
+<text x="540.0" y="154.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1E3A8A">先看他想干啥</text>
+<rect x="450.0" y="208.0" width="180.0" height="44.0" rx="10" fill="#EFF6FF" stroke="#2563EB" stroke-width="1.5"/>
+<text x="540.0" y="234.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1E3A8A">抠出时间、人、地点</text>
+<rect x="460.0" y="288.0" width="160.0" height="44.0" rx="10" fill="#ECFDF5" stroke="#059669" stroke-width="1.5"/>
+<text x="540.0" y="314.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#065F46">记下聊到哪一步</text>
+<polygon points="540.0,370.0 600.0,410.0 540.0,450.0 480.0,410.0" fill="#FFFBEB" stroke="#D97706" stroke-width="1.5"/>
+<text x="540.0" y="414.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#92400E">接下来?</text>
+<rect x="80.0" y="388.0" width="140.0" height="44.0" rx="14" fill="#F8FAFC" stroke="#64748B" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="150.0" y="414.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#334155">再问问老师是谁</text>
+<rect x="270.0" y="508.0" width="140.0" height="44.0" rx="10" fill="#F0F9FF" stroke="#0284C8" stroke-width="1.5"/>
+<text x="340.0" y="534.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#0C4A6E">去名单里找老师</text>
+<polygon points="340.0,595.0 395.0,630.0 340.0,665.0 285.0,630.0" fill="#FFFBEB" stroke="#D97706" stroke-width="1.5"/>
+<text x="340.0" y="634.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#92400E">重名?</text>
+<rect x="80.0" y="610.0" width="140.0" height="40.0" rx="14" fill="#F8FAFC" stroke="#64748B" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="150.0" y="634.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#334155">列出几个让人选</text>
+<rect x="270.0" y="710.0" width="140.0" height="40.0" rx="10" fill="#ECFDF5" stroke="#059669" stroke-width="1.5"/>
+<text x="340.0" y="734.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#065F46">认准这位老师</text>
+<rect x="475.0" y="508.0" width="130.0" height="44.0" rx="10" fill="#F0F9FF" stroke="#0284C8" stroke-width="1.5"/>
+<text x="540.0" y="534.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#0C4A6E">查谁有空</text>
+<rect x="470.0" y="610.0" width="140.0" height="40.0" rx="14" fill="#F8FAFC" stroke="#64748B" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="540.0" y="634.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#334155">把空闲表秀出来</text>
+<rect x="685.0" y="388.0" width="150.0" height="44.0" rx="10" fill="#ECFDF5" stroke="#059669" stroke-width="1.5"/>
+<text x="760.0" y="414.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#065F46">核对忙闲和房间</text>
+<rect x="905.0" y="330.0" width="150.0" height="40.0" rx="14" fill="#F8FAFC" stroke="#64748B" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="980.0" y="354.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#334155">老师没空，换时间</text>
+<rect x="920.0" y="450.0" width="120.0" height="40.0" rx="14" fill="#F8FAFC" stroke="#64748B" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="980.0" y="474.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#334155">房间满了</text>
+<rect x="700.0" y="508.0" width="120.0" height="44.0" rx="10" fill="#F0F9FF" stroke="#0284C8" stroke-width="1.5"/>
+<text x="760.0" y="534.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#0C4A6E">订下并通知</text>
+<rect x="690.0" y="610.0" width="140.0" height="40.0" rx="14" fill="#F8FAFC" stroke="#64748B" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="760.0" y="634.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#334155">告诉他订好了</text>
+<text x="40" y="764" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#94A3B8">图例</text>
+<rect x="80" y="752" width="14" height="14" rx="3" fill="#EFF6FF" stroke="#2563EB"/>
+<text x="100" y="764" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#64748B">大模型</text>
+<rect x="170" y="752" width="14" height="14" rx="3" fill="#ECFDF5" stroke="#059669"/>
+<text x="190" y="764" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#64748B">程序</text>
+<rect x="260" y="752" width="14" height="14" rx="3" fill="#F0F9FF" stroke="#0284C8"/>
+<text x="280" y="764" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#64748B">查系统</text>
+<rect x="350" y="752" width="14" height="14" rx="3" fill="#FFFBEB" stroke="#D97706"/>
+<text x="370" y="764" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#64748B">判断</text>
+<rect x="440" y="752" width="14" height="14" rx="3" fill="#F8FAFC" stroke="#64748B"/>
+<text x="460" y="764" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#64748B">回复</text>
+</svg>

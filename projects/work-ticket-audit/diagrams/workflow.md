@@ -1,29 +1,31 @@
-# 工作票审核 · 流程图
+# 工作票审核流程图
 
 ```mermaid
 flowchart TD
-    A[开始: 上传工作票] --> B[MinerU / 文档解析]
-    B --> C{parse_ok?}
-    C -->|否| F1[代码生成失败报告]
-    C -->|是| D[填字段 LLM<br/>temperature=0 + JSON]
-    D --> E[解析字段 Code<br/>归一化 / is_work_ticket]
+    A[上传工作票] --> B[把文件读成文字]
+    B --> C{读成功?}
+    C -->|否| F1[说读失败了]
+    C -->|是| D[填出各项内容]
+    D --> E[整理字段]
     E --> G{是工作票?}
-    G -->|否| F2[非工作票报告]
-    G -->|是| H{fields_ok?}
-    H -->|否| F3[字段失败报告]
-    H -->|是| I[规则审核 Code]
-    H -->|是| J[输入裁剪]
-    J --> K[模型审核 LLM]
-    K --> L[解析模型 JSON]
-    I --> M[汇总前整理]
+    G -->|否| F2[说这不是工作票]
+    G -->|是| H{字段齐吗?}
+    H -->|否| F3[说缺信息]
+    H -->|是| I[按规则检查]
+    H -->|是| J[压缩给模型看]
+    J --> K[大模型再审一遍]
+    K --> L[读出模型结论]
+    I --> M[两边结果合并]
     L --> M
-    M --> N[汇总回复 Code<br/>拼交付模板]
-    F1 --> O[回复]
+    M --> N[写成审核报告]
+    F1 --> O[回复用户]
     F2 --> O
     F3 --> O
     N --> O
 ```
 
-## 画布
+## 图
 
-`assets/screenshots/ticket-canvas.png`
+![工作票审核流程](../../../assets/diagrams/ticket-workflow.svg)
+
+源文件：`assets/diagrams/ticket-workflow.drawio`
